@@ -10,14 +10,13 @@ In this post, we have list out quality interview questions that uses array data 
 Contents
 --------
 1. Find pair with given sum in the array [https://www.techiedelight.com/find-pair-with-given-sum-array/]
-
-Find pair with given sum in the array
-Find sub-array with 0 sum
-Sort binary array in linear time
-Find a duplicate element in a limited range array
-Find largest sub-array formed by consecutive integers
-Find maximum length sub-array having given sum
-Find maximum length sub-array having equal number of 0’s and 1’s
+2. Find pair with given sum in the array [https://www.techiedelight.com/find-sub-array-with-0-sum/]
+3. Find sub-array with 0 sum
+4. Sort binary array in linear time
+5. Find a duplicate element in a limited range array
+6. Find largest sub-array formed by consecutive integers
+7. Find maximum length sub-array having given sum
+8. Find maximum length sub-array having equal number of 0’s and 1’s
 Sort an array containing 0’s, 1’s and 2’s(Dutch national flag problem)
 Inplace merge two sorted arrays
 Merge two arrays by satisfying given constraints
